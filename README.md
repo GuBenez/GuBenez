@@ -4,7 +4,7 @@
   <a href="https://github.com/GuBenez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuBenez&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuBenez&layout=compact&langs_count=7&theme=blue-green"/>
-  <img align="center" alt="Gu-matrix" src="https://media2.giphy.com/media/l9o68tABGK6k0/200.gif?cid=95b27944b1a277de696a5a0e91d70e4a156d92db32df160c&rid=200.gif&ct=g">
+  <img align="center" alt="Gu-program" height="200" width="300"src="https://64.media.tumblr.com/c5d68e3f92b74f875e9eaa71e7afaf72/tumblr_pk86uikJgM1rhk4rn_540.gif">
 
 ##
 

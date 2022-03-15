@@ -1,15 +1,15 @@
 ### Hello_World, I'm Gustavo!!!
-<div align="left">
+<div align="center">
   <a href="https://github.com/GuBenez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gubenez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="390" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubenez&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubenez&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gu-prog" height="180" width="180" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif">
+  <img align="right" alt="Gu-prog" height="160" width="160" src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif">
   <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
